@@ -1,9 +1,3 @@
-// string
-
-var myJavaScriptPractice = "This is my JavaScript Practice";
-console.log(myJavaScriptPractice);
-
-
 //number
 
 var num = 6;
